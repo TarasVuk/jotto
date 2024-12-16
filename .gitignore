@@ -1,0 +1,4 @@
+*.exe
+*.gcda 
+*.gcno
+solutions.txt
